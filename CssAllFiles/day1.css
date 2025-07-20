@@ -1,0 +1,9 @@
+h1 {
+    color:blue
+}
+
+/*Using multiple Selector at one */
+ h2, h3,h4
+ {
+    color:yellow
+ }
